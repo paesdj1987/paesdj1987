@@ -34,14 +34,22 @@ Sou profissional da área de Dados, com experiência em análise e transformaç�
 
 <p align="center">
   <a href="https://github.com/paesdj1987?tab=repositories">
-    <img width="440" src="https://github-readme-stats.vercel.app/api?username=paesdj1987&amp;show_icons=true&amp;hide_rank=true&amp;locale=pt-br&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=22d3ee&amp;border_color=30363d&amp;border_radius=8" alt="GitHub Stats de João Paes: estatísticas públicas de atividade; acesse o perfil se o serviço estiver indisponível." />
+    <img width="440" src="https://github-readme-stats.vercel.app/api?username=paesdj1987&amp;include_all_commits=true&amp;show_icons=true&amp;hide_rank=true&amp;locale=pt-br&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=22d3ee&amp;border_color=30363d&amp;border_radius=8" alt="GitHub Stats de João Paes: estatísticas públicas de atividade; acesse o perfil se o serviço estiver indisponível." />
   </a>
   <a href="https://github.com/paesdj1987?tab=repositories">
     <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paesdj1987&amp;layout=compact&amp;langs_count=8&amp;locale=pt-br&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_color=30363d&amp;border_radius=8" alt="Top Languages de João Paes: linguagens dos repositórios públicos; acesse os repositórios se o serviço estiver indisponível." />
   </a>
 </p>
 
-<sub>Cards gerados pelo <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>, sujeitos a cache e disponibilidade do serviço. As linguagens refletem o código dos repositórios públicos e não representam uma medida de proficiência.</sub>
+<sub>Cards gerados pelo <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>, sujeitos a cache, limites da API e disponibilidade do serviço.</sub>
+
+<sub>O total de commits considera o histórico público disponível na busca do GitHub, sem filtro de ano. Commits e contribuições do calendário são indicadores diferentes: o calendário também pode contar criação de repositórios, issues, pull requests e outras atividades elegíveis. A linha “Contribuiu para (ano passado)” conta repositórios com contribuições recentes e não é ampliada por include_all_commits.</sub>
+
+<sub>Nesta instância pública, os totais de commits, PRs, issues, estrelas e repositórios com contribuições não incluem atividade privada. Top Languages considera somente o código dos repositórios públicos e não representa uma medida de proficiência.</sub>
+
+<sub>A opção “Private contributions” permite exibir contagens privadas anonimizadas no calendário nativo, sem revelar nomes ou detalhes dos repositórios. Ela não concede ao serviço dos cards acesso aos repositórios privados. Acesse o calendário nativo pelo badge abaixo para acompanhar contribuições públicas e privadas.</sub>
+
+[![Calendário de contribuições no GitHub](https://img.shields.io/badge/GitHub-Calendário_de_contribuições-164E63?style=flat-square&logo=github&logoColor=white)](https://github.com/paesdj1987)
 
 [Ver repositórios públicos](https://github.com/paesdj1987?tab=repositories) · [Ver perfil e contribuições](https://github.com/paesdj1987)
 
